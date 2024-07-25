@@ -1,0 +1,1 @@
+pyinstaller main.py --name="ExcluirRepetidos" --noconfirm --onefile --clean --icon=icon.png
